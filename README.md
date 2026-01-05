@@ -24,4 +24,4 @@ Customer shopping behavior dataset containing customer demographics, purchase hi
 - Loyal customers contribute most of the revenue
 - Discounts significantly impact purchase behavior
 
-## Project Structure
+
