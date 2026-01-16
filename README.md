@@ -1,3 +1,12 @@
+## Why this project?
+An online store wants to understand how customers shop so it can increase sales and keep customers coming back.
+
+## Business Questions
+- Which customers buy the most?
+- Which products are bought again and again?
+- Do discounts really increase purchases?
+- Which customers may stop buying?
+
 # Customer Behaviour Analysis
 
 ## Overview
