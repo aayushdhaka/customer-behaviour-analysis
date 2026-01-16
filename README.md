@@ -27,6 +27,12 @@ The dataset contains information about customer shopping behavior, including:
 - Discounted orders increased purchase volume by around 15%
 - Clothing and electronics were the most frequently purchased categories
 
+## Business Recommendations
+- Focus marketing efforts on high-value and repeat customers
+- Introduce loyalty programs to retain frequent buyers
+- Use targeted discounts instead of offering discounts to all customers
+- Promote high-performing product categories to increase repeat purchases
+
 # Customer Behaviour Analysis
 
 ## Overview
