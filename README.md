@@ -14,6 +14,12 @@ The dataset contains information about customer shopping behavior, including:
 - Order date
 - Discount information
 
+## What I Did
+- Cleaned the data by removing missing and incorrect values
+- Organized and grouped customer data for analysis
+- Analyzed purchase frequency and spending behavior
+- Compared discounted and non-discounted purchases
+- Identified repeat customers and high-value customer segments
 
 # Customer Behaviour Analysis
 
