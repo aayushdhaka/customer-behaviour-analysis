@@ -6,6 +6,14 @@ An online store wants to understand how customers shop so it can increase sales 
 - Which products are bought again and again?
 - Do discounts really increase purchases?
 - Which customers may stop buying?
+  ## Data Used
+The dataset contains information about customer shopping behavior, including:
+- Customer ID
+- Product category
+- Purchase amount
+- Order date
+- Discount information
+
 
 # Customer Behaviour Analysis
 
