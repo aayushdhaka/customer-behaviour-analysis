@@ -21,6 +21,12 @@ The dataset contains information about customer shopping behavior, including:
 - Compared discounted and non-discounted purchases
 - Identified repeat customers and high-value customer segments
 
+## Key Findings
+- Top 25% of customers generated approximately 60% of total revenue
+- Repeat customers purchased nearly 3× more than one-time buyers
+- Discounted orders increased purchase volume by around 15%
+- Clothing and electronics were the most frequently purchased categories
+
 # Customer Behaviour Analysis
 
 ## Overview
